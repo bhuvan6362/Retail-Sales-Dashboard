@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Dashboard
+# 🛍️ Retail Sales Dashboard - Excel
 
 An interactive Microsoft Excel dashboard designed to analyze and visualize retail sales data. This dashboard provides a comprehensive view of performance by **region**, **product category**, **monthly trend**, and **top-selling products**.
 
